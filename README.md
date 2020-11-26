@@ -2,7 +2,7 @@
 
 ## Description
 
-A cross platform application created to interface the iLogger modules. Infinity-Tool app connects through BLE to an iLogger device to view and set settings values, provide real-time telemetry viewing of both the electronic speed controller and Battery Management System, and allows remote browsing and streaming of the performance logs recorded on the onboard micro SD card.
+A cross platform application created to interface the iLogger modules (https://wavrx.com). Infinity-Tool app connects through BLE to an iLogger device to view and set settings values, provide real-time telemetry viewing of both the electronic speed controller and Battery Management System, and allows remote browsing and streaming of the performance logs recorded on the onboard micro SD card.
 
 ## Download:
 
