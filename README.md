@@ -20,3 +20,7 @@ Infinity Tool is available on both:
 - Battery Management System real time data streaming.
 
 ## ScreenShots:
+
+![ScreenShot1](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot1.gif)
+![ScreenShot2](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot2.jpg)
+![ScreenShot3](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot3.jpg)
