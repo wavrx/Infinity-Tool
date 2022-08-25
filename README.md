@@ -24,4 +24,4 @@ Infinity Tool is available on both:
 ![ScreenShot1](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot1.gif)
 ![ScreenShot2](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot2.jpg)
 ![ScreenShot3](https://github.com/WavRX/Infinity-Tool/blob/main/ScreenShots/ScreenShot3.jpg)
-![ScreenShot4](https://github.com/wavrx/Infinity-Tool/blob/main/ScreenShots/iToolApp-1-513x1024.png)
+![ScreenShot4](https://github.com/wavrx/Infinity-Tool/blob/main/ScreenShots/ScreenShot4.jpg)
